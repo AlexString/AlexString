@@ -63,6 +63,10 @@
 
 ###
 
+<h3 align="center">Social media</h3>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardo-alexis-l%C3%B3pez-cadena-22b912259/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
